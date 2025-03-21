@@ -65,4 +65,4 @@ MIT License - Feel free to use and modify
 ## Author
 
 Your Name
-Created: March 2024
+<p align="center">Created: March 2024</p>
