@@ -63,6 +63,6 @@ To modify this project:
 MIT License - Feel free to use and modify
 
 ## Author
-
+<p align="center">
 Your Name
-<p align="center">Created: March 2024</p>
+Created: March 2024</p>
