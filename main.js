@@ -23,7 +23,7 @@ function tampilkanUcapan() {
     document.getElementById("ucapan").style.display = "block";
     document.getElementById(
       "ucapanNama"
-    ).innerText = `Selamat Ulang Tahun, ${nama}!`;
+    ).innerText = `Happy Birthday, ${nama}!`;
 
     // Add date with color
     const currentDateElement = document.getElementById("currentDate");
