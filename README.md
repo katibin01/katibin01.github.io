@@ -13,7 +13,7 @@ A simple and interactive birthday greeting web application with animations and p
 ## Project Structure
 
 ```
-gabut/
+app/
 ├── index.html
 ├── happybird.html
 ├── style.css
@@ -26,7 +26,7 @@ gabut/
 - HTML5
 - CSS3
 - JavaScript
-- Local Storage
+- 
 
 ## How to Use
 
@@ -64,5 +64,5 @@ MIT License - Feel free to use and modify
 
 ## Author
 <p align="center">
-Your Name
+Katibin
 Created: March 2024</p>
