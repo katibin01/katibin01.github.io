@@ -1,4 +1,4 @@
-# Birthday Greeting Web App
+<p align="center">Birthday Greeting Web App </p>
 
 A simple and interactive birthday greeting web application with animations and personalized messages.
 
